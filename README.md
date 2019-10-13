@@ -24,7 +24,7 @@ Here are some screenshots:
 
 ![Image1](Assets/images/when_quiz_completed.png)
 
-![Image1](Assets/images/highscores.png)
+![Image1](Assets/images/highscores_page.png)
 
 Installation:
 
