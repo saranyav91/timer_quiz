@@ -1,8 +1,6 @@
+
 # timer_quiz
-<<<<<<< HEAD
-# timer_quiz
-=======
->>>>>>> d04eb79de60117c6d433c9b2c0e054a0d75a613f
+
 Name:
 Time based client side Quiz
 
