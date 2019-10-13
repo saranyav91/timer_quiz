@@ -1,1 +1,128 @@
+h1 {
+    
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+li {
+    font-family:'Cambria', serif;
+    font-size: 1.5em;
+}
+.btn {
+    border: 0px;
+    width: 200px;
+    height: 2em;
+    color: white;
+     
+     
+}
+a{
+    color:#4b0f4b;
+}
+p {
+    
+    font-weight:bold;
+}
+ 
+ .quizContainer {
+    background-color: white;
+    border-radius: 6px;
+    width: 75%;
+    margin: auto;
+    padding-top: 5px;
+    
+    position: relative;
+}
+.quizcontainer #quiz1
+{
 
+font-family:"Georgia", Arial, sans-serif;
+}
+.nextButton {
+    box-shadow: 3px 3px 5px #888;
+    border-radius: 6px;
+   /* width: 150px;*/
+    height: 40px;
+    text-align: center;
+    background-color: lightgrey;
+    /*clear: both;*/
+    color:#4b0f4b;
+    font-family:'Gabriola', serif;
+    position: relative;
+    margin: auto;
+	font-size:25px;
+	font-weight:bold;
+    padding-top: 5px;
+	float:right;
+	right:30%;
+}
+
+.preButton {
+    box-shadow: 3px 3px 5px #888;
+    border-radius: 6px;
+    /*width: 150px;*/
+    height: 40px;
+    text-align: center;
+    background-color: lightgrey;
+    /*clear: both;*/
+    color:#4b0f4b;
+    font-family:'Gabriola', serif;
+    position: relative;
+    margin: auto;
+	font-size:25px;
+	font-weight:bold;
+    padding-top: 5px;
+	float:left;
+	left:30%;
+}
+
+.question {
+    font-family:'Century', serif;
+    font-size: 1.5em;
+	font-weight:bold;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;    
+    text-align: center;
+}
+.quizMessage {
+    
+    border-radius: 6px;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+	font-size:20px;
+	font-weight:bold;
+    font-family:'Gabriola', serif;
+    color:black;
+	position:absolute;
+	top:80%;
+	left:40%;
+}
+.choiceList {
+    font-family: 'Arial', serif;
+    color:#4b0f4b;
+	font-size:15px;
+	font-weight:bold;
+}
+.result {
+    width: 40%;
+    height: auto;
+    border-radius: 6px;
+    
+    margin: auto;
+	
+    text-align: center;
+	font-size:25px;
+    font-family:'Verdana', serif;
+	font-weight:bold;
+	position:absolute;
+	top:20%;
+	left:30%;
+}
+.scoreList{
+    background-color:#e0bae0;
+}
